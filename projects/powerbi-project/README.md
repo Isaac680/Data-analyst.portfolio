@@ -18,8 +18,20 @@ This project presents an **interactive sales dashboard** developed in **Power BI
 
 ---
 
-## 📷 Dashboard Preview  
-[![Dashboard Screenshot](projects/powerbi-project/Images)](projects/powerbi-project/Images)
+## 📷 Dashboard Gallery
+
+[![Dashboard Overview](Images/Cover.png)](Images/Cover.png)  
+*Main dashboard view - Click to enlarge*
+
+[![Delivery Metrics](Images/Delivery-metrics.png)](Images/Delivery-metrics.png)  
+*Key logistics KPIs - Click for details*
+
+[![Profit Analysis](Images/Profit.png)](Images/Profit.png)  
+*Gross margin by region*
+
+[![Shipping Methods](Images/Shipping-method.png)](Images/Shipping-method.png)  
+*Transportation distribution*
+
 
 ---
 
