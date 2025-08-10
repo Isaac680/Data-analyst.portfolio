@@ -19,7 +19,7 @@ This project presents an **interactive sales dashboard** developed in **Power BI
 ---
 
 ## 📷 Dashboard Preview  
-[![Dashboard Screenshot](images/dashboard-preview.png)](images/dashboard-preview.png)
+[![Dashboard Screenshot](projects/powerbi-project/Images)](projects/powerbi-project/Images)
 
 ---
 
