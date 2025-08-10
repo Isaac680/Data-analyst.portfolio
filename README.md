@@ -7,7 +7,7 @@ Each project includes the source file, screenshots, and brief documentation so y
 
 ## 📁 Projects
 
-1. **[Sales Dashboard - Power BI](projects/powerbi-project1/README.md)**  
+1. **[Sales Dashboard - Power BI](projects/powerbi-project/README.md)**   
    Interactive sales analysis by region and distribution channel.
 
 2. **[Customer Churn Analysis - Tableau](projects/tableau-project2/README.md)**  
